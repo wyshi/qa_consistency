@@ -9,4 +9,4 @@ We build the QA model with the [DREAM dataset](https://github.com/nlpdata/dream)
 We build the question generator also with the [DREAM dataset](https://github.com/nlpdata/dream).
 
 ## Human evaluation
-human_evaluation/ contains the scripts to build a Blenderbot using the classifiers.
+human_evaluation/ contains the scripts to build a [Blenderbot](https://parl.ai/projects/recipes/) using the classifiers.
