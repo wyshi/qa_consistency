@@ -6,7 +6,7 @@ We use the [ParlAI](https://parl.ai/) framework for this project. You need to in
 Install the required packages by ```pip install requirements.txt```
 
 ## Dialogue-based QA model
-We build the QA model with the [DREAM dataset](https://github.com/nlpdata/dream).
+We build the QA model with the [DREAM dataset](https://github.com/nlpdata/dream). The trained model is [here](https://drive.google.com/file/d/19xgdo1cI9YTnifTqKXBpPfbpZ73G9WgJ/view?usp=sharing)
 
 ## Question Generator
 We build the question generator also with the [DREAM dataset](https://github.com/nlpdata/dream).
