@@ -3,7 +3,7 @@
 ## Requirements
 
 We use the [ParlAI](https://parl.ai/) framework for this project. You need to install ParlAI first.
-The requirements are in requirements.txt
+Install the required packages by ```pip install requirements.txt```
 
 ## Dialogue-based QA model
 We build the QA model with the [DREAM dataset](https://github.com/nlpdata/dream).
